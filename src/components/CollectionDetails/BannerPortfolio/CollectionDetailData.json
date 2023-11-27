@@ -1,0 +1,111 @@
+{
+    "BannerPorfolioDetailHeader": {
+        "ProfileCollectionDetail": {
+            "UserName": "Audioglyphs",
+            "CreatedBy": "@johon kobra",
+            "CollectionOf": 12,
+            "OwnedBy": 2,
+            "FloorPrice": 12,
+            "TotalSales": 0.53
+        }
+    },
+    "BannerPorfolioDetailBody": {
+            "NavbarDetail":{
+                "Result":200222
+            },
+            "Cards":[
+                {   
+                    "id":1,
+                    "like":2.1,
+                    "name":"JhonnyE",
+                    "title":"Art Work #2134",
+                    "currentBid":0.29
+                    
+                },
+                {   
+                    "id":2,
+                    "like":3.3,
+                    "name":"Debit Alex",
+                    "title":"Cool Octupus Travelling",
+                    "currentBid":0.24
+                   
+                },
+                {   
+                    "id":3,
+                    "like":3.1,
+                    "name":"Robert Alex",
+                    "title":"Cool Octupus Eating ",
+                    "currentBid":0.09
+                    
+                }, {   
+                    "id":4,
+                    "like":3.3,
+                    "name":"JhonnyE",
+                    "title":"Art Work #2134",
+                    "currentBid":0.29
+                    
+                },
+                {   
+                    "id":5,
+                    "like":3.3,
+                    "name":"JhonnyE",
+                    "title":"Art Work #2134",
+                    "currentBid":0.29
+                  
+                },
+                {   
+                    "id":6,
+                    "like":3.3,
+                    "name":"JhonnyE",
+                    "title":"Art Work #2134",
+                    "currentBid":0.29
+                    
+                }, {   
+                    "id":7,
+                    "like":3.3,
+                    "name":"JhonnyE",
+                    "title":"Art Work #2134",
+                    "currentBid":0.29
+                    
+                }, {   
+                    "id":8,
+                    "like":3.3,
+                    "name":"JhonnyE",
+                    "title":"Art Work #2134",
+                    "currentBid":0.29
+                    
+                },
+                {   
+                    "id":9,
+                    "like":3.3,
+                    "name":"JhonnyE",
+                    "title":"Art Work #2134",
+                    "currentBid":0.29
+                  
+                },
+                {   
+                    "id":10,
+                    "like":3.3,
+                    "name":"JhonnyE",
+                    "title":"Art Work #2134",
+                    "currentBid":0.29
+                    
+                },
+                {   
+                    "id":11,
+                    "like":3.3,
+                    "name":"JhonnyE",
+                    "title":"Art Work #2134",
+                    "currentBid":0.29
+                
+                },{   
+                    "id":12,
+                    "like":3.3,
+                    "name":"JhonnyE",
+                    "title":"Art Work #2134",
+                    "currentBid":0.29
+                    
+                }
+            ]
+    }
+}

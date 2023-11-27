@@ -1,0 +1,92 @@
+.Category-swiperslide-Header-Class-Category-Swiper{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.Category-swiperslide-Header-Class-Category-Swiper img{
+   border-radius: 50px;
+   width: 73px;
+   height: 73px;
+    margin-top: 10px;
+}
+
+
+.Category-swiperslide-Body-Class-Category-Swiper{
+    display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+padding: 0px;
+
+}
+
+.Category-swiper{
+    padding: 10px;
+}
+
+
+.Category-swiperslide{
+opacity: 1!important;
+}
+
+/* parent classes */
+
+.Category-swiper .swiper-slide-active{
+    transform: none;
+    transition: none;
+    overflow-y: none;
+    z-index: 1
+}
+.auction-swiper-slider span.swiper-pagination-bullet{
+    transition: all 0.6s ease-in-out;
+    background-image: var(--bs-gradient);
+    background-color: #DC3545;
+    width: 10px;
+    height: 10px;
+  }
+  .auction-swiper-slider
+    span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+    width: 35px;
+    height: 10px;
+    padding: 0;
+    border-radius: 8px;
+    background-image: var(--bg-gradient-pb);
+    background-color: #110D2E;
+  }
+
+  .auction-swiper-slider span.swiper-pagination-bullet{
+  transition: all 0.6s ease-in-out;
+  background-image: var(--bs-gradient);
+  background-color: #DC3545;
+  width: 10px;
+  height: 10px;
+}
+.auction-swiper-slider
+  span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+  width: 35px;
+  height: 10px;
+  padding: 0;
+  border-radius: 8px;
+  background-image: var(--bg-gradient-pb);
+  background-color: #110D2E;
+}
+
+.Category-swiper .swiper-pagination .swiper-pagination-bullet {
+    transition: all 0.6s ease-in-out;
+    background-image: var(--linear-gradient);
+    background-color: #DC3545;
+    width: 10px;
+    height: 10px;
+}
+
+.Category-swiper .swiper-pagination .swiper-pagination-bullet-active {
+    width: 35px;
+    height: 10px;
+    padding: 0;
+    border-radius: 8px;
+    background-image: var(--bg-gradient-pb);
+    background-color: #110D2E;
+}
+

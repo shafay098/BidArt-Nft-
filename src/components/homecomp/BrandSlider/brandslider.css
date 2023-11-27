@@ -1,0 +1,18 @@
+.BrandSliderSwiper .swiper-wrapper{
+    -webkit-transition-timing-function: linear !important;
+    -o-transition-timing-function: linear !important;
+    transition-timing-function: linear !important;
+}
+
+.custom-swiper-slide{
+    width: 20%;
+}
+
+.BrandSliderSwiper .card img {
+    width: 80%;
+    height: 80%;
+}
+
+.BrandSliderSwiper{
+    width: 100%;
+}
